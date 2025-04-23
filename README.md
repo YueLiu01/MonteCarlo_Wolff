@@ -13,4 +13,4 @@ The critical point of the bulk is $h^{(B)}_c=1$ and, correspondingly, $\beta^{(B
 
 In **MC_code.py**, we compute the magnetization in the bulk and along the defect line for different parameters and system sizes.
 
-In **MC_code_parallel.py**, we implementation parallelization to speed up the simulation.
+In **MC_code_parallel.py**, we implement parallelization to speed up the simulation.
